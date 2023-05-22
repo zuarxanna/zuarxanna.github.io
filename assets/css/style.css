@@ -45,6 +45,14 @@ a:hover {
   text-decoration: none;
 }
 
+.primary__custom {
+  color: #35e888 !important;
+}
+
+.bg-primary__custom {
+  background-color: #35e888 !important;
+}
+
 h1,
 h2,
 h3,
